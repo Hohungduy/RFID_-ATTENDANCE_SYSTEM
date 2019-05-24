@@ -1,5 +1,5 @@
 # RFID_-ATTENDANCE_SYSTEM
-subject project
+Subject project
 
 Hi everyone!
 I am a beginner in embedded system. My field is: Embedded Linux, Embedded programming, machine-learning, apps in Android, web interface with PHP, Mysql, CCS, HTML 
